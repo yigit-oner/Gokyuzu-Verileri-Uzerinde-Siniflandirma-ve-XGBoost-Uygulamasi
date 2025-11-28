@@ -1,4 +1,4 @@
-# Dijital-Gokyuzu-Anketi-Verileri-Uzerinde-Siniflandirma-ve-XGBoost-Uygulamasi
+# Gokyuzu-Verileri-Uzerinde-Siniflandirma-ve-XGBoost-Uygulamasi
 Sloan Dijital Gökyüzü Anketi (SDSS) verilerini kullanarak yıldızlar, galaksiler ve kuasarlar (QSO) arasında ayrım yapan bir Makine Öğrenmesi Sınıflandırma projesidir. Yüksek korelasyonlu özniteliklerin çıkarılması, veri ölçeklendirme ve XGBoost modelinin optimizasyonu yapılmıştır.
 
 Bu projede, gök cisimlerinin temel özelliklerini (konum, parlaklık, kırmızıya kayma) içeren Sloan Dijital Gökyüzü Anketi (SDSS) verilerini kullandım. Ana amacım, bu veriyi kullanarak bir gök cisminin Yıldız (Star), Galaksi (Galaxy) veya Kuasar (QSO) olduğunu yüksek doğrulukla tahmin edebilen bir sınıflandırma modeli geliştirmekti. Proje, hem veri hazırlık hem de model optimizasyon aşamalarını içeriyor.
